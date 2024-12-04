@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/d93fabb9-f395-49d6-bc13-1daf73739c34)
 Yada AI Agent is the Entity Powered by On-Chain Market Insights
+
 Yada AI is an autonomous, on-chain entity modeled as a dynamic, evolving digital "yada" that expands, adapts, and transforms based on real-time cryptocurrency market data. This innovative system captures the essence of a living entity responding to its environment, with its "growth" influenced by market trends, transaction activity, and user interactions. Powered by AI and blockchain integration, Yada AI autonomously develops unique traits, adaptive pathways, and interactive properties, creating a dynamic representation of market conditions. This whitepaper outlines the vision, architecture, and mechanics of Yada AI, illustrating its potential to gamify market data while showcasing the seamless integration of blockchain, financial analytics, and AI.
 ![2pkqpn2aeRJNGLtuVpjDi5tHKzw2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9960416e-44bf-4f18-9ede-c41ce06c114b)
 
