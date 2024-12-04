@@ -2,7 +2,7 @@ import openai
 import time
 
 class BlorbAI:
-    def __init__(self, openai_api_key, name="Blorb AI"):
+    def __init__(self, openai_api_key, name="Yada AI"):
         self.api_key = openai_api_key
         self.name = name
         openai.api_key = self.api_key
@@ -54,7 +54,7 @@ class BlorbAI:
 
     def custom_logic(self, task_type, **kwargs):
         """
-        Handles specific tasks or logic for Blorb AI.
+        Handles specific tasks or logic for Yada AI.
         """
         if task_type == "summarize":
             text = kwargs.get("text", "")
@@ -69,12 +69,12 @@ class BlorbAI:
 # Example usage
 if __name__ == "__main__":
     API_KEY = "your-openai-api-key-here"
-    blorb = BlorbAI(openai_api_key=API_KEY)
+    yada = YadaAI(openai_api_key=API_KEY)
 
     # Main Chat Interface
-    blorb.run_chat()
+    yada.run_chat()
 
     # Example of custom functionality
-    text_to_summarize = "Blorb AI is a powerful AI assistant that can handle multiple tasks."
+    text_to_summarize = "Yada AI is a powerful AI assistant that can handle multiple tasks."
     print("\nSummarizing text:")
-    print(blorb.custom_logic(task_type="summarize", text=text_to_summarize))
+    print(yada.custom_logic(task_type="summarize", text=text_to_summarize))
